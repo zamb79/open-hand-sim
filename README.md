@@ -8,3 +8,5 @@ This project provides two important things:
 1) A 3d model (including kinematics/bones) of the human hand as Blender file
 2) Python scripts to control the human hand and integrate the model with pytorch
 
+More information is available <a href="http://zamb.at/openHandSim/openHandSim.html">here</a>.
+
