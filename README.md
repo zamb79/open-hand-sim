@@ -8,4 +8,3 @@ This project provides two important things:
 1) A 3d model (including kinematics/bones) of the human hand as Blender file
 2) Python scripts to control the human hand and integrate the model with pytorch
 
-![screenshot_001](https://user-images.githubusercontent.com/15984176/85957687-caacb700-b98f-11ea-9c49-b6077dbcce77.jpg)
